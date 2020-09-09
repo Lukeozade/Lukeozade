@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Luke 👋
+
+### About
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/lukeozade/lukeozade.svg?cache=remove)](#)
