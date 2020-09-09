@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### ✨Visitors
-[![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
+[![ViewCount](https://views.whatilearened.today/views/github/lukeozade/lukeozade.svg?cache=remove)](#)
 
 <!--
 **Lukeozade/Lukeozade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
